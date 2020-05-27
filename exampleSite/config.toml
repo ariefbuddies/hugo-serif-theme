@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "AriiefB Serif"
+title = "AriefB Serif"
 themesDir = "../.."
 theme = "hugo-serif-theme"
 
@@ -33,7 +33,7 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
+      name = "Tim"
       url = "/team/"
       weight = 2
 
